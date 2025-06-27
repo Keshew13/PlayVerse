@@ -1,3 +1,11 @@
+# Note: 
+• Go to the "PlayVerse\bin\Debug\PlayVerse.exe" , to run it without Microsft Visual Studio.
+
+## 🚀 How to Run
+1. Clone or download the repository
+2. Open the `.sln` file in **Microsoft Visual Studio**
+4. Hit `F5` or the green ▶️ button to run
+---
 # PlayVerse
 Simple 2D games project "PlayVerse". This repository contains the game logic, assets, and UI design focused on gameplay simplicity and performance.
 
@@ -54,14 +62,6 @@ This project was built to:
 - 🧱 Windows Forms
 - 🎨 Custom PictureBox controls and panels
 - 🧠 Beginner-level game logics
-
----
-
-## 🚀 How to Run
-
-1. Clone or download the repository
-2. Open the `.sln` file in **Visual Studio**
-3. Hit `F5` or the green ▶️ button to run
 
 ---
 
