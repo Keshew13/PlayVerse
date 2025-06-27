@@ -1,0 +1,9 @@
+.vs/
+*.suo
+*.vsi
+*.db
+node_modules/
+.vscode/
+*.log
+.env
+
